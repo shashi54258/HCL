@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: duetschebank project
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: shashi
+Implementation-Vendor-Id: io.java.deutschebank
+Build-Jdk: 1.8.0_251
+Implementation-URL: http://projects.spring.io/spring-boot/hcl-emploloy
+ ee/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
